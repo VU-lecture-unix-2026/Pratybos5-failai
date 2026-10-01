@@ -84,10 +84,10 @@
    $ ./testas.sh
    ```
    
-Nustatyta vykdymo gairelė neturi įtakos failo tiesioginiam
-paleidimui `bash` komandos pagalba (tačiau yra kitų - akivaizdžiai
-nematomų pasekmių, apie kurias mokinsimės vėliau):
-
+   Nustatyta vykdymo gairelė neturi įtakos failo tiesioginiam
+   paleidimui `bash` komandos pagalba (tačiau yra kitų - akivaizdžiai
+   nematomų pasekmių, apie kurias mokinsimės vėliau):
+   
    ```bash
    $ bash testas.sh
    ```
